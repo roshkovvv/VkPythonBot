@@ -9,7 +9,14 @@ This bot can answer only private messages.
 
 
 You need to install:
- pip install vkapi
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - pip install vkapi
  
  
  
@@ -21,4 +28,7 @@ You need to install:
  
  
 to start bot:
- python bot.py
+ 
+ 
+ 
+ - python bot.py
